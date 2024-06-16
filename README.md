@@ -1,3 +1,5 @@
+VIEW RENDERED JUPYTER NOTEBOOK HERE: https://nbviewer.org/github/noreplyprofiles/daily_social_media_usage_contributing_factors/blob/main/Daily%20Social%20Media%20Usage%27s%20Contributing%20Factors.ipynb
+
 In the modern day, most students resort to social media as a form of entertainment whenever they are bored. With apps such as TikTok and Instagram, it is very easy to spend hours on end browsing through social media. While many studies show data regarding the relationship between social media usage and emotional states, I have not come across many regarding what influences daily social media usage time. For this project, I will be observing how various factors can affect the amount of time a person spends on social media through a linear regression model.
 
 The dataset I will be using for this project is regarding Social Media Usage and Emotional Well-Being.
